@@ -1,7 +1,7 @@
 # Windows-Fix-Tool
-**An AIO app to fix the most common problems in Windows 10 and 11**
+**An AIO ENG/ITA app to fix the most common problems in Windows 10 and 11**
 
-![Preview](https://github.com/DraftmanCorp/Windows-Fix-Tool/blob/main/Preview/1.2.1.jpg)
+![Preview](https://github.com/DraftmanCorp/Windows-Fix-Tool/blob/main/Preview/1.2.2.jpg)
 
 ### 🧠 What Windows-Fix-Tool?
 
