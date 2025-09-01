@@ -10,7 +10,7 @@ A powerful portable C++ tool that brings together all the prompt commands to ana
 ---
 
 ### 📝 Key Features
-1. è portatile, non richiede installazioni nel pc.
+1. is portable, no installation required.
 2. includes all dism and sfc commands
 3. includes commands for disk cleanup and obsolete files
 4. includes checkdisk commands
